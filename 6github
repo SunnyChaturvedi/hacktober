@@ -1,0 +1,10 @@
+<html>
+<head></head>
+<body>
+<script type="text\javascript">
+var people= new Array("harsh","sunny","hrisabh","shashwat");
+
+document.write(people[2]);
+</script>
+<body>
+</html>
